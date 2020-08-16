@@ -23,6 +23,7 @@ The game plays with a mouse and keyboard.
 <ul>
     <li><strong>Move:</strong> Left and Right arrow / A and D / Q and D</li>
     <li><strong>Jump:</strong> Up arrow / W / Z / Space</li>
+    <li>YEET</li>
 </ul>
 <ul>
     <li><strong>Place Key:</strong> Drag & drop the key from the bar</li>
